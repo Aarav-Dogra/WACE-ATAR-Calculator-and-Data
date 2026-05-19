@@ -6,9 +6,13 @@ C is computer science, M is mathematics methods, L is chemistry, S is specialist
 example usage:
 
 %Run 'subject percentiles to ATAR.py'
+
 what percentile are you in each subject in the order of C,M,L,S,P? 0.35,0.65,0.45,0.68,0.35
+
 53.5
+
 278.5
+
 C:
   total n = 332
   percentile * n = 116.19999999999999
@@ -55,7 +59,7 @@ TEA components: [76.45, 61.5, 83.05, 57.5]
 ATAR = 92.1657
 >>>
 
-xample usage:
+example usage:
 
 92.1657 is the ATAR you would receive if 0.35,0.65,0.45,0.68,0.35 were the values showing the percentile for each subject for all of WA.
 if 0.35,0.65,0.45,0.68,0.35 were the values showing the percentile for each subject for just CCGS, then your input to this file should be 92.1657, and you will get an output of 97.0957.
