@@ -1,4 +1,5 @@
 For 'subject percentiles to ATAR' file:
+
 C is computer science, M is mathematics methods, L is chemistry, S is specialists, P is physics,
 0.35,0.65,0.45,0.68,0.35 means U are in the at the 35th percentile (top 65%) for computer science in WA, 65th percentile (top 35%) for methods in WA ...
 
