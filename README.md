@@ -4,7 +4,7 @@ C is computer science, M is mathematics methods, L is chemistry, S is specialist
 
 example usage:
 
->>> %Run 'subject percentiles to ATAR.py'
+%Run 'subject percentiles to ATAR.py'
 what percentile are you in each subject in the order of C,M,L,S,P? 0.35,0.65,0.45,0.68,0.35
 53.5
 278.5
